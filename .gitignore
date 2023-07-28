@@ -67,3 +67,6 @@ python/*.egg-info
 
 # MacOS
 .DS_Store
+
+# Nix
+/result
